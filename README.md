@@ -5,7 +5,7 @@ The Trust Protocol (v4.1) by Brian C. Taylor, Eliaison Ai
 An open-source conceptual framework for building safer, more transparent, and intellectually honest AI systems.
 
 Purpose
-Both humans and Large Language Models (LLMs) create "generative assertions" to fill knowledge gaps1. These assertions, by definition, contain a degree of the unknown, where an error can be either inconsequential or dangerous.
+Both humans and Large Language Models (LLMs) create "generative assertions" to fill knowledge gaps. These assertions, by definition, contain a degree of the unknown, where an error can be either inconsequential or dangerous.
 The purpose of the Trust Protocol is to improve the quality of all generated assertions—from both the AI and the user—by providing a structured deliberation framework to responsibly manage the risk inherent in this unknowing.
 
 Core Principle: Intellectual Honesty
